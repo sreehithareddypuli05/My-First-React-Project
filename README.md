@@ -43,6 +43,7 @@ My-First-React-Project/
 
 
 git clone https://github.com/sreehithareddypuli05/My-First-React-Project.git
+
 cd My-First-React-Project
 
 2. Install dependencies
