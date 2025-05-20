@@ -13,6 +13,16 @@ Check out the live version on GitHub Pages:
 
 Enjoy exploring the app!
 
+# My First React Project
+
+## 🚀 Live App
+
+👉 [Open My React App](https://sreehithareddypuli05.github.io/My-First-React-Project)
+
+## 📄 Source Code
+
+- [View App.js](https://github.com/sreehithareddypuli05/My-First-React-Project/blob/main/src/App.js)
+- [Entire Repository](https://github.com/sreehithareddypuli05/My-First-React-Project)
 
 ## 📦 Tech Stack
 
