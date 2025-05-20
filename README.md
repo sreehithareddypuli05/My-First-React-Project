@@ -7,6 +7,13 @@ Welcome to **My First React Project**! This is a beginner-friendly React applica
 Check out the live version on GitHub Pages:  
 👉 [https://sreehithareddypuli05.github.io/My-First-React-Project](https://sreehithareddypuli05.github.io/My-First-React-Project)
 
+## 🔗 Live Website
+
+👉 [Click here to open the website](https://sreehithareddypuli05.github.io/My-First-React-Project)
+
+Enjoy exploring the app!
+
+
 ## 📦 Tech Stack
 
 - ⚛️ React (via Create React App)
