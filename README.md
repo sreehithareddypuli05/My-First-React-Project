@@ -2,22 +2,8 @@
 
 Welcome to **My First React Project**! This is a beginner-friendly React application built with the goal of learning and practicing the fundamentals of React.js, component-based architecture, and modern JavaScript.
 
-## 🔗 Live Demo
-
-Check out the live version on GitHub Pages:  
-👉 [https://sreehithareddypuli05.github.io/My-First-React-Project](https://sreehithareddypuli05.github.io/My-First-React-Project)
-
-## 🔗 Live Website
-
-👉 [Click here to open the website](https://sreehithareddypuli05.github.io/My-First-React-Project)
-
-Enjoy exploring the app!
-
 # My First React Project
 
-## 🚀 Live App
-
-👉 [Open My React App](https://sreehithareddypuli05.github.io/My-First-React-Project)
 
 ## 📄 Source Code
 
